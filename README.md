@@ -1,4 +1,10 @@
-# msc_project_template 
+# MSc_Project
+
+## 
+
+This repository documents the development and progress of my MSc Statistics project at Imperial College London, submitted in partial fulfilment of the requirements for the MSc in Statistics.
+
+The project is supervised by Dr Daniel Mortlock, and the repository structure and report template are adapted from materials provided by Dr Zak Varty. 
 
 ## Directory Structure 
 
